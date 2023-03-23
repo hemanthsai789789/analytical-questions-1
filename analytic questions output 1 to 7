@@ -1,0 +1,16 @@
+1) Output : 
+        A
+2) Input :
+       Enter the string : hemanth
+   Output: 
+       HEMANTH
+3) Output :
+       the program get error
+       
+4)  output: No. The for loop tells the correct string lenght 11
+              where as the while loop gives 12 as the length.
+5) output : x points to the null, dereferencing the null results.
+
+6)  output : the output get error because you cant use an array.
+
+7)output : the program get 11 22 33 44 55.
